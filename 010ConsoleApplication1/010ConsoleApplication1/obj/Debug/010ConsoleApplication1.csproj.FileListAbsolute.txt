@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\c#v12 project\010ConsoleApplication1\010ConsoleApplication1\bin\Debug\010ConsoleApplication1.exe.config
+C:\Users\ADMIN\Desktop\c#v12 project\010ConsoleApplication1\010ConsoleApplication1\bin\Debug\010ConsoleApplication1.exe
+C:\Users\ADMIN\Desktop\c#v12 project\010ConsoleApplication1\010ConsoleApplication1\bin\Debug\010ConsoleApplication1.pdb
+C:\Users\ADMIN\Desktop\c#v12 project\010ConsoleApplication1\010ConsoleApplication1\obj\Debug\010ConsoleApplication1.exe
+C:\Users\ADMIN\Desktop\c#v12 project\010ConsoleApplication1\010ConsoleApplication1\obj\Debug\010ConsoleApplication1.pdb
